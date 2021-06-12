@@ -1,0 +1,41 @@
+<HTML>  
+
+    <HEad>  
+
+      <title > Receita 1 </title>  
+
+    </head>   
+
+    
+
+    <body>  
+
+      <p><a href="index.html" title="Esse link volta para o início">Menu Jantar Romantico</a></p>
+
+        <h1>Salada Caprese</h1>
+        <h2>Delicia natural</h2>
+        <img src="salada-caprese.jpg" alt="Salada caprese deliciosa">
+        <ul>
+        <li> 1 maço de rúcula à juliene </li> 
+      
+        <li>1 maço de alface americana à juliene</li>
+        <li>100 g de tomates cortados em cubos</li>
+        <li>>100 g de queijo branco em cubos</li>
+        <li>30 ml de pesto de manjericão</li>
+        <li>5 g de manjericão</li>
+        <li>sal</li>
+        <li>pimenta do reino</li>
+        <li>20 ml de azeite</li>
+        <li>20 g de azeitonas</li>
+        <li>30 ml de molho de azeite de limão</li> 
+      </ul>
+      <h3>Modo de preparo </h3>
+        <p>1-Coloque a mussarela e o tomate em uma saladeira.</p>
+        <p>2-Acrescente os temperos e sirva.</p>
+        
+      
+  
+
+    </body>
+
+  </html>
