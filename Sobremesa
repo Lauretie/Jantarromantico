@@ -1,0 +1,39 @@
+<HTML>  
+
+    <HEad>  
+
+      <title > Receita 3 </title>  
+
+    </head>   
+
+    
+
+    <body>  
+
+      <a href="index.html" title="Esse link volta para o início">Voltar</a>
+
+        <h1>Receita de Mousse de tentação</h1>
+        <h1> INGREDIENTES</h1>
+        <img src="receitas-de-doce-tentação.jpg" alt="Doce do amor!">
+        <ul>
+        
+<li>1 caixa de leite condensado</li>
+<li>3 caixas de creme de leite</li>
+<li>1 pacotinho de suco tang sabor morango</li>
+<li>1 tablete de 200g de chocolate meio amargo</li>
+<li>granulado para enfeitar</li>
+    <h3>MODO DE PREPARO</h3>
+1- No liquidificador bata o leite condensado e 2 caixas de creme de leite. </n>
+2- Quando estiver bem misturado adicione aos poucos o suco /n tang, ainda batendo no liquidificador. 
+3- Despeje o mousse em uma travessa e reserve.
+4- Em uma panela em banho-maria derreta o chocolate.
+5- Em seguida adicione o creme de leite.
+6- Despeje em sima do mousse e polvilhe chocolate granulado em cima e leve a geladeira por 40 minutos.
+ 7- E está pronto para consumo
+    
+
+  
+      </ul>
+    </body>
+
+  </html>
